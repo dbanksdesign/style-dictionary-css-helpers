@@ -1,0 +1,13 @@
+{
+  "color": {
+    "background": {
+      "primary": { "value": "#fff", "cssProp": "background-color" },
+      "secondary": { "value": "#eee", "cssProp": "background-color" }
+    },
+    
+    "font": {
+      "primary": { "value": "#000", "cssProp": "color" },
+      "secondary": { "value": "#333", "cssProp": "color" }
+    }
+  }
+}

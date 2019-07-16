@@ -1,0 +1,22 @@
+{
+  "name": "style-dictionary-css-helpers",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "style-dictionary build --config ./config.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dbanksdesign/style-dictionary-css-helpers.git"
+  },
+  "author": "",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/dbanksdesign/style-dictionary-css-helpers/issues"
+  },
+  "homepage": "https://github.com/dbanksdesign/style-dictionary-css-helpers#readme",
+  "devDependencies": {
+    "style-dictionary": "^2.8.1"
+  }
+}
